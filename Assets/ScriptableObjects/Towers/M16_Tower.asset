@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be994283929da7b4393393a74d04a962, type: 3}
+  m_Name: M16_Tower
+  m_EditorClassIdentifier: Assembly-CSharp::TowerData
+  _towerName: M16 Tower
+  _description: The standard-issue rifle for a reason. A balanced and reliable weapon
+    system effective against both light and medium threats. A true workhorse for
+    any defensive line.
+  _towerPrefab: {fileID: 8127385956862857565, guid: cf07d319ca355be4bb846bee2951d649, type: 3}
+  _cost: 175
+  _damage: 25
+  _fireRate: 1
+  _range: 20

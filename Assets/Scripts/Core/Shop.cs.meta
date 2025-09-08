@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8dd7f623ece04674795dcff298fcd629
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _minigunTower: {fileID: 11400000, guid: bfe2bff795c8bf744b3334394de8f9c1, type: 2}
+  - _m16Tower: {fileID: 11400000, guid: 219e2e769a1a9d74abe5bb712ef0527e, type: 2}
+  - _sniperTower: {fileID: 11400000, guid: 47cbfb7b4e4c59f489bb4de73210cda3, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
