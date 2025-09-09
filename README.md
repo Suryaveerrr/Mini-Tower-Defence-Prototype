@@ -57,6 +57,7 @@ Following Unity's philosophy, logic is broken down into small, focused component
 4. On the new enemy prefab, link the new `EnemyData` asset to the `Enemy (Script)` component.
 5. To add it to a wave, select a `WaveData` asset, add a new `Wave Step`, and link the new enemy prefab.
 
+
 ## Known Limitations
 * The UI is functional but visually basic.
 * Enemy pathfinding is limited to a single, predefined path.
