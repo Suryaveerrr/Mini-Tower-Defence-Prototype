@@ -4,7 +4,7 @@ Of course. Here is a complete, professional README.md file that covers everythin
 
 Markdown
 
-# Gritstorm - Tower Defense Prototype
+Mini Tower Defense Prototype
 
 This project is a small tower defense game prototype created for a technical assessment. The focus is on demonstrating a clean, scalable, and data-driven code architecture within the Unity engine.
 
