@@ -1,6 +1,6 @@
 # Mini-Tower-Defence-Prototype
 A Mini Tower Defense game prototype made in Unity. Built with a focus on data-driven design using Scriptable Objects and clean, modular code.
-Of course. Here is a complete, professional README.md file that covers everything we've built. You can copy this text, paste it into a file named README.md in your project's main folder, and it will be ready for submission.
+
 
 Markdown
 
