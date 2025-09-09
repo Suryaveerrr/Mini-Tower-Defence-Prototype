@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 0}
+  m_Script: {fileID: 11500000, guid: cd0cd35251ed07b468ed8d4767a9acbe, type: 3}
   m_Name: Wave_0
   m_EditorClassIdentifier: Assembly-CSharp::WaveData
   _waveSteps:
@@ -18,6 +18,4 @@ MonoBehaviour:
     _spawnInterval: 2.5
   - _enemyPrefab: {fileID: 4433456729428207167, guid: ea4b296242eba2c4ea5580432ff928fb, type: 3}
     _count: 10
-    _spawnInterval: 2
-  _spawnInRandomOrder: 1
-  _randomSpawnInterval: 0.75
+    _spawnInterval: 2.5

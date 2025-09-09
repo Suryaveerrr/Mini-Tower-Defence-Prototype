@@ -4886,9 +4886,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::GameManager
   _waveSpawner: {fileID: 851068173}
   _allWaves:
-  - {fileID: 11400000, guid: e9329323bbbdbde4288f40da401f7546, type: 2}
-  - {fileID: 11400000, guid: 38f2a7b892d544a408e3eaff51bd4b95, type: 2}
-  - {fileID: 11400000, guid: 067cf0a22da3f1f43af8c16c333eb457, type: 2}
+  - {fileID: 11400000, guid: 5513fb3b3fea1d84883dd631c119e7dd, type: 2}
+  - {fileID: 11400000, guid: 42b0a95f239340047a66983b241f03f0, type: 2}
+  - {fileID: 11400000, guid: 1bf353fa1fa8d464bae3eb318812f2fa, type: 2}
 --- !u!4 &1828962706
 Transform:
   m_ObjectHideFlags: 0
