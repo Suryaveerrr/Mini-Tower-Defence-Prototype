@@ -2,10 +2,6 @@
 A Mini Tower Defense game prototype made in Unity. Built with a focus on data-driven design using Scriptable Objects and clean, modular code.
 
 
-
-
-Mini Tower Defense Prototype
-
 This project is a small tower defense game prototype created for a technical assessment. The focus is on demonstrating a clean, scalable, and data-driven code architecture within the Unity engine.
 
 ## Key Features
